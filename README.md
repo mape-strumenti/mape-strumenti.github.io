@@ -6,4 +6,5 @@ MAPE website
 
 
 Based on:
-- [https://github.com/Spiderpig86/Cirrus/](Cirrus CSS)
+- [Jekyll](https://jekyllrb.com/docs/github-pages/) via gh-pages
+- [Cirrus CSS](https://github.com/Spiderpig86/Cirrus/)
