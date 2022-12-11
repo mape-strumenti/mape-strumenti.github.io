@@ -51,6 +51,6 @@ The first approach to the Pragma series, this is a budget-focused prototype of a
 A 6mm Cherrywood fretboard with a 12" (300mm) radius on top of a 7 pieces neck composed by Sapele, Hard Maple, and Birch, with multiple pieces of Alder, Pine, and Birch for body, with a bookmatched Iroko top.
 
 The electronics consist of two volumes (one for each soapbar), and a 3.5mm audio out.
-Super lightweight instrument, with a 30mm body thickness, finished in expoxy, and epoxy side dots. 
+Super lightweight instrument, with a 30mm body thickness, finished with epoxy, and epoxy side dots. 
 
 A headless fixed zinc alloy bridge completes the instrument.

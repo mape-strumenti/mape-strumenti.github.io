@@ -11530,6 +11530,9 @@ textarea.form-control-lg {
 .img-gallery {
   aspect-ratio: 16/9;
   height: auto;
-  background-size: contain;
   width: 100% !important;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: left;
+     object-position: left;
 }
