@@ -1,6 +1,7 @@
 ---
 name:                  "b4f-001"
 category:              "Pragma"
+status:             "prototype"
 images:
     thumbnail:          "b4f-001/header.jpg"
     header:             "b4f-001/header.jpg"
@@ -10,7 +11,6 @@ taxonomy:
     model:              "B4"
     variant:            "F"
 construction:
-    status:             "prototype"
     typology:           "4 string fretless electric bass"
     date:
         start:          "2020-10-01"
