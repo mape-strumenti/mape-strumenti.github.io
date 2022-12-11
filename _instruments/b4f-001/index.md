@@ -40,7 +40,7 @@ construction:
 
 gallery:
     - header.jpg
-    - b4f-001-1.jpg
+    - b4f-1.jpg
 
 layout: instrument-2
 
