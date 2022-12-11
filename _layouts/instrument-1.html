@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-12 col-md-6 mb-4">
                 <header class="project-heading">
-                    <h1>{{ page.name }}</h1>
+                    <h1 class="text-uppercase">{{ page.name }}</h1>
                 </header>
                 <div class="project-categories">
                     <div class="category-link">
@@ -16,13 +16,16 @@
                 </div>
                 <div class="project-info">
                     <p class="project project-date">
-                        <strong>Date </strong><span>{{ page.construction.date.start }} -- {{ page.construction.date.end }} </span>
+                        <strong>Date </strong>
+                        <span>{{ page.construction.date.end | date: "%B, %y" }} </span>
                     </p>
-                    <p class="project project-client">
-                        <strong>Client </strong><span>Brisbane City Council</span>
+                    <p class="project project-typology">
+                        <strong>Type </strong>
+                        <span>{{ page.construction.typology }}</span>
                     </p>
                     <p class="project project-role">
-                        <strong>Role </strong><span>Building Designer</span>
+                        <strong>Role </strong>
+                        <span>Building Designer</span>
                     </p>
                 </div>
             </div>
