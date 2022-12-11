@@ -37,6 +37,7 @@ construction:
         locks:              "Schaller-style"
         bridge:             "Headless fixed zinc alloy"
     finish:             "Wax and linen oil"
+
 gallery:
     - header.jpg
     - rima-1.jpg
