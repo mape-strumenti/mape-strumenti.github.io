@@ -11,6 +11,7 @@ taxonomy:
     model:              "G6"
     variant:            ""
 construction:
+    typology:           "6 string electric guitar"
     date:
         start:          "2020-10-01"
         end:            "2021-10-16"
