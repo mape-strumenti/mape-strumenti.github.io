@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+{% include head.html %}
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 mb-4">
+                <header class="project-heading">
+                    <h1>{{ page.name }}</h1>
+                </header>
+                <div class="project-categories">
+                    <div class="category-link">
+                        <p><a href="#">{{ page.category }}</a></p>
+                    </div>
+                </div>
+                <div class="project-info">
+                    <p class="project project-date">
+                        <strong>Date </strong><span>{{ page.construction.date.start }} -- {{ page.construction.date.end }} </span>
+                    </p>
+                    <p class="project project-client">
+                        <strong>Client </strong><span>Brisbane City Council</span>
+                    </p>
+                    <p class="project project-role">
+                        <strong>Role </strong><span>Building Designer</span>
+                    </p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 mb-4">
+                <div class="content">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+        <div class="row gx-5 mx-lg-5">
+            {% for image in page.gallery %}
+                <div class="my-4 col-lg-6">
+                    <img src="{{ image }}" class="img-fluid img-gallery" alt="image">
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+
+</html>

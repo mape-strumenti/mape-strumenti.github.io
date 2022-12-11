@@ -1,0 +1,13 @@
+/* typography */
+
+.project strong 
+{
+    width: $unit-base *10px;
+    display: inline-block;
+}
+
+.project-info
+{
+    font-size: $unit-base *1.5px;
+    line-height: 1;
+}
