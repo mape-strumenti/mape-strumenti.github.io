@@ -1,5 +1,5 @@
 ---
-name:                  "rima"
+name:                  "Rima"
 category:              "Pragma"
 status:                "finished"
 images:
@@ -37,8 +37,13 @@ construction:
         locks:              "Schaller-style"
         bridge:             "Headless fixed zinc alloy"
     finish:             "Wax and linen oil"
+gallery:
+    - header.jpg
+    - rima-1.jpg
+    - rima-2.jpg
+    - rima-3.jpg
 
-layout: instrument        
+layout: instrument-1        
 ---
 
 RIMA is a 6-string guitar tailored for Riccardo.
