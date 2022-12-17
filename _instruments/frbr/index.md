@@ -7,10 +7,11 @@ taxonomy:
     model:              "Verso"
     variant:            "B4.F"
 construction:
+    typology:           "4 string electric fretless bass"
     status:             "finished"
     date:
-        start:          "2021-03"
-        end:            "2021-10"
+        start:          "2021-03-01"
+        end:            "2021-10-01"
     neck:
         material:       "5 pieces Hard Maple, Wenge"
         nutWidth:       "43mm"
