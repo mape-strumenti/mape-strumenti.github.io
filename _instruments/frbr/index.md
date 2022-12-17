@@ -37,13 +37,21 @@ construction:
 images:
     thumbnail:          "frbr/header.jpg"
     header:             "frbr/header.jpg" 
-layout: instrument
+gallery:
+    - frbr-1.jpg
+    - frbr-2.jpg
+    - frbr-3.jpg
+    - frbr-4.jpg
+    - frbr-5.jpg
+layout: instrument-3
+
 ---
 
 FRBR is a model designed for Francesco.
 
 With a black wenge top on a resonant toulipier body, the instrument is characterized for its asymmetrical shape, giving an ergonomic way of playing.
 Suited also with handmade wenge caps on pots, the electronic cavity is on the front of the instrument, hidden under a cap of the same wood of the top, while on the back resides only the battery cavity. The Neutrik-style audio jack assures the strenght of the connection.
+
 The fretboard is inlayed with a custom-made birch/epoxy/abalone pattern, which yelds for a contrasted figures on the side. 
 
-The instrument resonates well on the lower end, while the usage of similar woods (maple and wenge) adds clarity and attack to the notes.
+The instrument resonates well on the lower end, while the extensive use of maple and wenge adds clarity and attack to the notes.
