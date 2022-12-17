@@ -5,14 +5,14 @@
 <body>
     <div class="container px-lg-5">
         <div class="row gx-5">
-            <div class="col">
+            <div class="col-md-6">
                 {% for image in page.gallery %}
                     <div class="my-4">
                         <img src="{{ image }}" class="img-fluid img-gallery" alt="image">
                     </div>
                 {% endfor %}
             </div>
-            <div class="col my-4">
+            <div class="col-md-6 my-4">
                 {% include instrument_header.html %}
                 {% include instrument_category.html %}
                 <div class="content">
